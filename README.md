@@ -1,6 +1,4 @@
-<h1> Sistema de Registro </h1> 
+<h1> Amigo Secreto  </h1> 
 
-- Estado del proyecto: En construccion. 
 
-Para ejecutar el sistema, debes poner: 
- ```npm install react ```
+
